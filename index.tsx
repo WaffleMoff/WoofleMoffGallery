@@ -7,14 +7,14 @@ const { width: screenWidth, height: screenHeight } = Dimensions.get('window');
 
 // Import your images
 const images = [
-    require('../assets/paintings/1.jpg'),
-    require('../assets/paintings/2.jpg'),
-    require('../assets/paintings/3.jpg'),
-    require('../assets/paintings/4.jpg'),
-    require('../assets/paintings/5.jpg'),
-    require('../assets/paintings/6.jpg'),
-    require('../assets/paintings/7.jpg'),
-    require('../assets/paintings/8.jpg'),
+    require('/assets/paintings/1.jpg'),
+    require('/assets/paintings/2.jpg'),
+    require('/assets/paintings/3.jpg'),
+    require('/assets/paintings/4.jpg'),
+    require('/assets/paintings/5.jpg'),
+    require('/assets/paintings/6.jpg'),
+    require('/assets/paintings/7.jpg'),
+    require('/assets/paintings/8.jpg'),
   // Add more images as needed
 ];
 
